@@ -1,0 +1,361 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "nome": "Jaqueta",
+      "marca": "The North Face",
+      "quant": 12,
+      "preco": 299
+    },
+    {
+      "id": "2",
+      "nome": "Camisa Polo",
+      "marca": "Lacoste",
+      "quant": 8,
+      "preco": 60
+    },
+    {
+      "id": "3",
+      "nome": "Calça",
+      "marca": "Fate",
+      "quant": 15,
+      "preco": 270
+    },
+    {
+      "id": "4",
+      "nome": "Blusa Simples",
+      "marca": "Nike",
+      "quant": 20,
+      "preco": 39
+    },
+    {
+      "id": "5",
+      "nome": "Casaco com zíper",
+      "marca": "Louis Vitton",
+      "quant": 6,
+      "preco": 120
+    },
+    {
+      "id": "6",
+      "nome": "Camisa Manga Longa",
+      "marca": "Hugo Boss",
+      "quant": 10,
+      "preco": 60
+    },
+    {
+      "id": "7",
+      "nome": "Calça Moletom",
+      "marca": "Adidas",
+      "quant": 18,
+      "preco": 99
+    },
+    {
+      "id": "8",
+      "nome": "Cropped",
+      "marca": "Channel",
+      "quant": 9,
+      "preco": 70
+    },
+    {
+      "id": "9",
+      "nome": "Camisa Aniversário",
+      "marca": "Levi's",
+      "quant": 7,
+      "preco": 100
+    },
+    {
+      "id": "10",
+      "nome": "Jaqueta de Inverno",
+      "marca": "The North Face",
+      "quant": 5,
+      "preco": 350
+    },
+    {
+      "id": "11",
+      "nome": "Camisa Estampada",
+      "marca": "Lacoste",
+      "quant": 12,
+      "preco": 79
+    },
+    {
+      "id": "12",
+      "nome": "Calça Jeans",
+      "marca": "Fate",
+      "quant": 14,
+      "preco": 230
+    },
+    {
+      "id": "13",
+      "nome": "Blusa Básica",
+      "marca": "Nike",
+      "quant": 17,
+      "preco": 45
+    },
+    {
+      "id": "14",
+      "nome": "Casaco Social",
+      "marca": "Louis Vitton",
+      "quant": 4,
+      "preco": 490
+    },
+    {
+      "id": "15",
+      "nome": "Camisa Slim Fit",
+      "marca": "Hugo Boss",
+      "quant": 8,
+      "preco": 88
+    },
+    {
+      "id": "16",
+      "nome": "Moletom Fechado",
+      "marca": "Adidas",
+      "quant": 20,
+      "preco": 110
+    },
+    {
+      "id": "17",
+      "nome": "Cropped Estilo",
+      "marca": "Channel",
+      "quant": 10,
+      "preco": 75
+    },
+    {
+      "id": "18",
+      "nome": "Camisa Vintage",
+      "marca": "Levi's",
+      "quant": 11,
+      "preco": 105
+    },
+    {
+      "id": "19",
+      "nome": "Casaco Térmico",
+      "marca": "The North Face",
+      "quant": 6,
+      "preco": 399
+    },
+    {
+      "id": "20",
+      "nome": "Camisa Clássica",
+      "marca": "Lacoste",
+      "quant": 9,
+      "preco": 95
+    },
+    {
+      "id": "21",
+      "nome": "Calça Skinny",
+      "marca": "Fate",
+      "quant": 7,
+      "preco": 260
+    },
+    {
+      "id": "22",
+      "nome": "Blusa Esportiva",
+      "marca": "Nike",
+      "quant": 16,
+      "preco": 50
+    },
+    {
+      "id": "23",
+      "nome": "Casaco Luxo",
+      "marca": "Louis Vitton",
+      "quant": 2,
+      "preco": 780
+    },
+    {
+      "id": "24",
+      "nome": "Camisa Casual",
+      "marca": "Hugo Boss",
+      "quant": 14,
+      "preco": 67
+    },
+    {
+      "id": "25",
+      "nome": "Calça Jogger",
+      "marca": "Adidas",
+      "quant": 10,
+      "preco": 89
+    },
+    {
+      "id": "26",
+      "nome": "Cropped Verão",
+      "marca": "Channel",
+      "quant": 12,
+      "preco": 65
+    },
+    {
+      "id": "27",
+      "nome": "Camisa Retrô",
+      "marca": "Levi's",
+      "quant": 6,
+      "preco": 99
+    },
+    {
+      "id": "28",
+      "nome": "Jaqueta Impermeável",
+      "marca": "The North Face",
+      "quant": 4,
+      "preco": 320
+    },
+    {
+      "id": "29",
+      "nome": "Camisa Gola V",
+      "marca": "Lacoste",
+      "quant": 13,
+      "preco": 85
+    },
+    {
+      "id": "30",
+      "nome": "Calça Cargo",
+      "marca": "Fate",
+      "quant": 9,
+      "preco": 240
+    },
+    {
+      "id": "31",
+      "nome": "Blusa Dry Fit",
+      "marca": "Nike",
+      "quant": 15,
+      "preco": 42
+    },
+    {
+      "id": "32",
+      "nome": "Casaco Estiloso",
+      "marca": "Louis Vitton",
+      "quant": 3,
+      "preco": 560
+    },
+    {
+      "id": "33",
+      "nome": "Camisa Elegante",
+      "marca": "Hugo Boss",
+      "quant": 5,
+      "preco": 75
+    },
+    {
+      "id": "34",
+      "nome": "Moletom Adidas",
+      "marca": "Adidas",
+      "quant": 11,
+      "preco": 109
+    },
+    {
+      "id": "35",
+      "nome": "Cropped Básico",
+      "marca": "Channel",
+      "quant": 8,
+      "preco": 59
+    },
+    {
+      "id": "36",
+      "nome": "Camisa Urbana",
+      "marca": "Levi's",
+      "quant": 10,
+      "preco": 98
+    },
+    {
+      "id": "37",
+      "nome": "Casaco 3 em 1",
+      "marca": "The North Face",
+      "quant": 3,
+      "preco": 450
+    },
+    {
+      "id": "38",
+      "nome": "Camisa Listrada",
+      "marca": "Lacoste",
+      "quant": 6,
+      "preco": 90
+    },
+    {
+      "id": "39",
+      "nome": "Calça Conforto",
+      "marca": "Fate",
+      "quant": 12,
+      "preco": 250
+    },
+    {
+      "id": "40",
+      "nome": "Blusa com Logo",
+      "marca": "Nike",
+      "quant": 14,
+      "preco": 55
+    },
+    {
+      "id": "41",
+      "nome": "Casaco Oversized",
+      "marca": "Louis Vitton",
+      "quant": 2,
+      "preco": 650
+    },
+    {
+      "id": "42",
+      "nome": "Camisa Oxford",
+      "marca": "Hugo Boss",
+      "quant": 9,
+      "preco": 82
+    },
+    {
+      "id": "43",
+      "nome": "Calça Esportiva",
+      "marca": "Adidas",
+      "quant": 13,
+      "preco": 92
+    },
+    {
+      "id": "44",
+      "nome": "Cropped Estampado",
+      "marca": "Channel",
+      "quant": 7,
+      "preco": 72
+    },
+    {
+      "id": "45",
+      "nome": "Camisa Social",
+      "marca": "Levi's",
+      "quant": 8,
+      "preco": 120
+    },
+    {
+      "id": "46",
+      "nome": "Jaqueta Leve",
+      "marca": "The North Face",
+      "quant": 10,
+      "preco": 280
+    },
+    {
+      "id": "47",
+      "nome": "Camisa Slim",
+      "marca": "Lacoste",
+      "quant": 5,
+      "preco": 88
+    },
+    {
+      "id": "48",
+      "nome": "Calça Tradicional",
+      "marca": "Fate",
+      "quant": 6,
+      "preco": 235
+    },
+    {
+      "id": "49",
+      "nome": "Blusa Casual",
+      "marca": "Nike",
+      "quant": 18,
+      "preco": 47
+    },
+    {
+      "id": "50",
+      "nome": "Camisa de Festa",
+      "marca": "Levi's",
+      "quant": 10,
+      "preco": 135
+    },
+    {
+      "id": "904b",
+      "nome": "Regata ",
+      "marca": "Class",
+      "quant": 20,
+      "preco": 139
+    }
+  ]
+}
